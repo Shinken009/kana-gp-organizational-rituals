@@ -216,41 +216,13 @@ Este artículo ha sostenido tres argumentos centrales. Primero, que los rituales
 
 La contribución del modelo no reside en su completitud empírica —que aún está por construir— sino en su capacidad para articular preguntas que la gestión pública habitualmente no se hace: ¿qué símbolos sostienen nuestra identidad institucional?, ¿a quiénes incluyen y a quiénes excluyen nuestras ceremonias?, ¿qué trabajo reconocemos y qué trabajo invisibilizamos?, ¿nuestros rituales fortalecen o debilitan la confianza ciudadana? Si los rituales ordenan el reconocimiento interno y comunican la identidad estatal hacia la ciudadanía, entonces también forman parte de la infraestructura invisible de la gobernanza.
 
+El modelo KANA-GP avanza el campo de la cultura organizacional pública al introducir una dimensión que los enfoques de clima organizacional y gestión cultural suelen presuponer pero no analizar: la producción simbólica de legitimidad a través del ritual. A diferencia de modelos anteriores que se centran en la cultura como conjunto de valores compartidos (Schein, 2010) o como prácticas organizacionales (Trice y Beyer, 1984), KANA-GP propone observar el ritual como mecanismo de gobernanza simbólica que produce, disputa y comunica legitimidad pública. Esta perspectiva es especialmente pertinente en América Latina, donde la confianza institucional se construye primariamente a través del trato directo y el vínculo interpersonal.
+
 Las futuras investigaciones deberán validar empíricamente las dimensiones del modelo mediante estudios de caso, observación etnográfica, análisis narrativo e instrumentos cualitativos diseñados inductivamente, siguiendo la agenda propuesta en la sección 4.6. El objetivo final no es reemplazar los enfoques de clima, bienestar o gestión cultural, sino agregar una perspectiva simbólica que haga visible lo que aquellos enfoques suelen presuponer: que las organizaciones son también comunidades rituales, y que gobernar una institución pública es, entre otras cosas, gobernar los símbolos con los que esa institución se narra a sí misma y ante la ciudadanía.
 
 En términos de contribución editorial, el artículo ofrece un punto de entrada poco explorado para la investigación en gestión pública: la dimensión ritual de la legitimidad. La mayor parte de la literatura sobre administración pública analiza capacidades, diseño institucional, desempeño, transparencia o participación, pero rara vez pregunta por la infraestructura simbólica que permite que esas prácticas sean reconocidas como legítimas. KANA-GP sitúa esa infraestructura en el centro del análisis y propone observarla sin perder de vista las relaciones de poder que la atraviesan.
 
 El cierre principal es, por tanto, programático. Este manuscrito no pretende resolver empíricamente la relación entre rituales y legitimidad pública; pretende mostrar por qué esa relación merece ser investigada con herramientas específicas. Su aporte es abrir un campo de preguntas y proponer una matriz inicial para abordarlas. Si las instituciones públicas latinoamericanas necesitan recuperar confianza, sostener sentido laboral y fortalecer vínculos con la ciudadanía, entonces la pregunta por sus rituales no es periférica: es una pregunta sobre cómo se produce, comunica y disputa la legitimidad del Estado en la vida cotidiana.
-
-## Declaración de conflicto de intereses
-
-El autor declara no tener conflicto de intereses en relación con la investigación, autoría o publicación de este artículo.
-
-## Financiamiento
-
-Este trabajo no contó con financiamiento externo.
-
-## Contribución propia
-
-Roberto Pizarro Díaz: conceptualización del modelo KANA-GP, revisión bibliográfica, análisis documental, análisis hermenéutico, elaboración de la matriz conceptual, redacción del borrador original, revisión y edición final.
-
-## Declaración de uso de inteligencia artificial
-
-En la elaboración de este manuscrito se utilizaron herramientas de inteligencia artificial como apoyo editorial —principalmente Perplexity AI (Sonnet 4.6, mayo de 2026) y ChatGPT— para organización de borradores intermedios, revisión de coherencia argumentativa y control editorial de formato. No se utilizó inteligencia artificial para generar datos, simular resultados empíricos, fabricar referencias bibliográficas ni sustituir el razonamiento teórico del autor. Todo el contenido conceptual, el desarrollo del modelo KANA-GP, las decisiones argumentales y la responsabilidad intelectual corresponden íntegramente a la autoría humana.
-
-## Declaraciones
-
-**Financiamiento**: No se declara financiamiento externo específico para esta versión del manuscrito.
-
-**Conflictos de interés**: El autor declara no tener conflictos de interés.
-
-**Disponibilidad de datos y código**: El paquete de investigación y los archivos de soporte están disponibles en: https://github.com/Shinken009/kana-gp-organizational-rituals. Este es un artículo conceptual y documental; no contiene datos empíricos, resultados estadísticos ni conjuntos de datos originales.
-
-## Posición epistemológica
-
-Este artículo adopta una posición de realismo crítico moderado: los rituales organizacionales existen como prácticas sociales objetivadas, pero su significado es siempre interpretado y contextualmente situado. Esta posición es coherente con la hermenéutica y con la tradición de los estudios críticos de la organización. La decisión de situar el mecanismo causal en el ritual de encuentro —y no en los procedimientos formales o los indicadores de desempeño— es una opción epistemológica informada por la evidencia de que, en el contexto latinoamericano, es el vínculo y no la norma lo que produce o destruye confianza institucional.
-
-Esta opción responde al diagnóstico de Ibarra-Colado (2006) sobre la colonialidad epistémica en los estudios organizacionales latinoamericanos: los marcos teóricos que emergen desde el Sur Global tienen una pertinencia diferente —no solo complementaria— a los producidos en el Norte (Alcadipani et al., 2012). KANA-GP no pretende ser universal: es un modelo situado en la experiencia institucional latinoamericana.
 
 ## Limitaciones
 
@@ -271,6 +243,24 @@ El modelo KANA-GP propone las siguientes líneas de investigación empírica:
 4. **Comparación cross-cultural**: Aplicación del modelo en países latinoamericanos con diferentes tradiciones burocráticas.
 5. **Validación psicométrica**: Desarrollo y validación de escala KANA-GP con muestra de funcionarios públicos.
 6. **Estudios de impacto ciudadano**: Medición de la relación entre percepción de rituales internos y confianza ciudadana institucional.
+
+## Posición epistemológica
+
+Este artículo adopta una posición de realismo crítico moderado: los rituales organizacionales existen como prácticas sociales objetivadas, pero su significado es siempre interpretado y contextualmente situado. Esta posición es coherente con la hermenéutica y con la tradición de los estudios críticos de la organización. La decisión de situar el mecanismo causal en el ritual de encuentro —y no en los procedimientos formales o los indicadores de desempeño— es una opción epistemológica informada por la evidencia de que, en el contexto latinoamericano, es el vínculo y no la norma lo que produce o destruye confianza institucional.
+
+Esta opción responde al diagnóstico de Ibarra-Colado (2006) sobre la colonialidad epistémica en los estudios organizacionales latinoamericanos: los marcos teóricos que emergen desde el Sur Global tienen una pertinencia diferente —no solo complementaria— a los producidos en el Norte (Alcadipani et al., 2012). KANA-GP no pretende ser universal: es un modelo situado en la experiencia institucional latinoamericana.
+
+## Declaraciones
+
+**Financiamiento**: No se declara financiamiento externo.
+
+**Conflictos de interés**: El autor declara no tener conflictos de interés.
+
+**Contribución propia**: Roberto Pizarro Díaz: conceptualización del modelo KANA-GP, revisión bibliográfica, análisis documental, análisis hermenéutico, elaboración de la matriz conceptual, redacción del borrador original, revisión y edición final.
+
+**Uso de inteligencia artificial**: Se utilizaron herramientas de IA como apoyo editorial (Perplexity AI, ChatGPT). No se utilizó IA para generar datos, simular resultados ni fabricar referencias. Todo el contenido conceptual corresponde a la autoría humana.
+
+**Disponibilidad de datos**: El paquete de investigación está disponible en: https://github.com/Shinken009/kana-gp-organizational-rituals. Artículo conceptual; no contiene datos empíricos.
 
 ## Referencias
 
