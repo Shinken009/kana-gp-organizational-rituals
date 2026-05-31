@@ -8,6 +8,9 @@ Artículo en evaluación:
 Revista objetivo: **Innovar, Revista de Ciencias Administrativas y Sociales**  
 Universidad Nacional de Colombia &middot; Evaluación doble ciega &middot; En revisión (enviado: mayo 2026)
 
+**Tipo de artículo:** Artículo de reflexión (clasificación MinCiencias/Colciencias)  
+**Financiamiento:** Investigación autofinanciada, sin financiamiento externo
+
 ---
 
 ## Contenido del repositorio
@@ -30,7 +33,7 @@ El argumento central es el siguiente: en el sector público, la legitimidad no d
 
 La tensión teórica que KANA-GP busca resolver es la siguiente: Islam & Sferrazzo (2022) demuestran que los rituales operan como colectivos con función cohesionadora; Yim et al. (2025) demuestran que sus efectos son diferenciales según la experiencia subjetiva de cada participante. El modelo toma esta tensión como punto de partida: el ritual de encuentro es, a la vez, un acto colectivo y una experiencia individual heterogénea, y es precisamente esa heterogeneidad la que determina si produce o erosiona legitimidad en organizaciones públicas con alta diversidad interna.
 
-**Naturaleza metodológica:** propuesta conceptual-analítica basada en revisión teórica sistemática con aplicación interpretativa al contexto latinoamericano.
+**Naturaleza metodológica:** artículo de reflexión teórica con aplicación interpretativa al contexto latinoamericano, basado en análisis crítico de fuentes primarias y secundarias especializadas.
 
 ---
 
@@ -88,6 +91,10 @@ El contexto regional lo proveen **CEPAL (2025)** —*Panorama de la Gestión Pú
 
 **English:** `organizational rituals` &middot; `encounter rituals` &middot; `institutional legitimacy` &middot; `interaction ritual chains` &middot; `Latin American organizational culture` &middot; `street-level bureaucracy` &middot; `public value` &middot; `KANA-GP`
 
+**Português:** `rituais organizacionais` &middot; `rituais de encontro` &middot; `legitimidade institucional` &middot; `cadeias de rituais de interação` &middot; `cultura organizacional latino-americana` &middot; `burocracia de nível de rua` &middot; `valor público` &middot; `KANA-GP`
+
+**Français:** `rituels organisationnels` &middot; `rituels de rencontre` &middot; `légitimité institutionnelle` &middot; `chaînes de rituels d'interaction` &middot; `culture organisationnelle latino-américaine` &middot; `bureaucratie de proximité` &middot; `valeur publique` &middot; `KANA-GP`
+
 ## Códigos JEL
 
 `M14` Corporate Culture &middot; `H83` Public Administration &middot; `D73` Bureaucracy & Administrative Processes &middot; `Z13` Social Norms, Social Capital & Culture
@@ -105,12 +112,12 @@ El contexto regional lo proveen **CEPAL (2025)** —*Panorama de la Gestión Pú
 
 ### Rituales de encuentro e interacción
 
-- Collins, R. (2004). *Interaction ritual chains*. Princeton University Press.
-- Goffman, E. (1967). *Interaction ritual: Essays on face-to-face behavior*. Anchor Books.
-- Turner, V. (1969). *The ritual process: Structure and anti-structure*. Aldine.
+- Collins, R. (2004). *Interaction ritual chains*. Princeton University Press. ISBN 978-0-691-09402-3
+- Goffman, E. (1967). *Interaction ritual: Essays on face-to-face behavior*. Anchor Books. ISBN 978-0-385-09382-2
+- Turner, V. (1969). *The ritual process: Structure and anti-structure*. Aldine. ISBN 978-0-202-01062-4
 - Turner, V. (1977). Variations on a theme of liminality. In S. F. Moore & B. G. Myerhoff (Eds.), *Secular ritual* (pp. 36–52). Van Gorcum.
-- Moore, S. F., & Myerhoff, B. G. (Eds.). (1977). *Secular ritual*. Van Gorcum.
-- Durkheim, É. (1912/1995). *The elementary forms of religious life* (K. E. Fields, Trans.). Free Press.
+- Moore, S. F., & Myerhoff, B. G. (Eds.). (1977). *Secular ritual*. Van Gorcum. ISBN 978-90-232-1472-7
+- Durkheim, É. (1912/1995). *The elementary forms of religious life* (K. E. Fields, Trans.). Free Press. ISBN 978-0-02-907937-0
 
 ### Rituales organizacionales
 
@@ -120,19 +127,19 @@ El contexto regional lo proveen **CEPAL (2025)** —*Panorama de la Gestión Pú
 ### Legitimidad institucional y valor público
 
 - Suchman, M. C. (1995). Managing legitimacy: Strategic and institutional approaches. *Academy of Management Review*, *20*(3), 571–610. https://doi.org/10.2307/258788
-- Moore, M. H. (1995). *Creating public value: Strategic management in government*. Harvard University Press.
+- Moore, M. H. (1995). *Creating public value: Strategic management in government*. Harvard University Press. ISBN 978-0-674-17558-0
 - Hood, C. (1991). A public management for all seasons? *Public Administration*, *69*(1), 3–19. https://doi.org/10.1111/j.1467-9299.1991.tb00779.x
-- March, J. G., & Olsen, J. P. (1989). *Rediscovering institutions: The organizational basis of politics*. Free Press.
-- Pollitt, C., & Bouckaert, G. (2017). *Public management reform: A comparative analysis* (4th ed.). Oxford University Press.
+- March, J. G., & Olsen, J. P. (1989). *Rediscovering institutions: The organizational basis of politics*. Free Press. ISBN 978-0-02-920115-1
+- Pollitt, C., & Bouckaert, G. (2017). *Public management reform: A comparative analysis* (4th ed.). Oxford University Press. ISBN 978-0-19-878563-7
 - Osborne, S. P. (2006). The new public governance? *Public Management Review*, *8*(3), 377–387. https://doi.org/10.1080/14719030600853022
 - OCDE. (2024). *Panorama de las administraciones públicas: América Latina y el Caribe 2024*. OECD Publishing. https://doi.org/10.1787/0f191dcb-es
 
 ### Cultura organizacional latinoamericana, personalismo y burocracia de contacto
 
-- House, R. J., Hanges, P. J., Javidan, M., Dorfman, P. W., & Gupta, V. (Eds.). (2004). *Culture, leadership, and organizations: The GLOBE study of 62 societies*. Sage.
-- Triandis, H. C. (1995). *Individualism and collectivism*. Westview Press.
+- House, R. J., Hanges, P. J., Javidan, M., Dorfman, P. W., & Gupta, V. (Eds.). (2004). *Culture, leadership, and organizations: The GLOBE study of 62 societies*. Sage. ISBN 978-0-7619-2401-2
+- Triandis, H. C. (1995). *Individualism and collectivism*. Westview Press. ISBN 978-0-8133-1312-9
 - Dávila, A., & Elvira, M. M. (2012). Humanistic leadership: Lessons from Latin America. *Journal of World Business*, *47*(4), 548–554. https://doi.org/10.1016/j.jwb.2012.01.006
-- Lipsky, M. (2010). *Street-level bureaucracy: Dilemmas of the individual in public service* (Expanded ed.). Russell Sage Foundation.
+- Lipsky, M. (2010). *Street-level bureaucracy: Dilemmas of the individual in public service* (Expanded ed.). Russell Sage Foundation. ISBN 978-0-87154-544-3
 
 ### Epistemología situada latinoamericana
 
