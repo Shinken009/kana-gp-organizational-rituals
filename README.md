@@ -46,13 +46,13 @@ La base teórica del campo comienza en **Émile Durkheim** (*Les formes élémen
 
 **Randall Collins** (*Interaction Ritual Chains*, 2004) integra la herencia de Durkheim y Goffman en un modelo procesual: los rituales de encuentro producen, como resultado medible, **energía emocional** —un estado de confianza, entusiasmo y disposición a la acción colectiva— y **símbolos de membresía grupal** que los participantes portan hacia próximas interacciones. La diferencia con Goffman es que Collins no solo describe cómo ocurren los rituales sino por qué algunos generan energía y otros la drenan: la intensidad del foco compartido y la sincronía emocional determinan el resultado. Esta variabilidad es el mecanismo que KANA-GP traslada al análisis de los rituales de encuentro en organizaciones públicas.
 
-### 2. Rituales en organizaciones: del canon a la frontera de investigación
+### 2. Rituales en organizaciones: del canon a los debates vigentes
 
 **Islam & Zyphur (2009)** sistematizaron el campo en *Group & Organization Management*, 34(1), 114–139, articulando la herencia durkheimiana con la teoría institucional. Su taxonomía —rituales de paso, de degradación, de realce, de renovación y de reducción de conflicto— sigue siendo la clasificación de referencia. Relevante para KANA-GP es su énfasis en que los rituales operan primariamente en el nivel del **grupo de trabajo** —equipo, departamento, unidad— antes de escalar al nivel organizacional: es en ese nivel meso donde el ritual de encuentro produce cohesión interna e identidad colectiva con mayor inmediatez (DOI: [10.1177/1059601108329717](https://doi.org/10.1177/1059601108329717)).
 
 **Islam & Sferrazzo (2022)** —*Journal of Management Studies*, 59(2), 284–318— avanzan en la comprensión de los rituales como espacios de tensión: la nueva ideología gerencial intenta apropiarse de la forma ritual para infundir comunidad e igualdad, pero esa apropiación genera resistencias que los propios rituales expresan y contienen. En organizaciones públicas latinoamericanas donde las reformas gerencialistas han convivido con culturas burocráticas de largo arraigo, esta doble función del ritual —instrumento de control y espacio de resistencia— es empíricamente reconocible (DOI: [10.1111/joms.12708](https://doi.org/10.1111/joms.12708)).
 
-La contribución más reciente del campo es **Yim, Foulk, Klotz & Schilpzand (2025)** —*Journal of Management*, OnlineFirst— que cuestiona empíricamente la asunción de beneficios uniformes del ritual: participantes en el mismo evento colectivo extraen efectos cualitativamente distintos según su experiencia subjetiva durante el ritual. Esto tensiona el argumento de Islam & Sferrazzo (2022) sobre la función cohesionadora colectiva, sin invalidarlo: la tensión entre el ritual como acto grupal y el ritual como experiencia individual heterogénea es el problema de investigación que KANA-GP recoge (DOI: [10.1177/01492063251355251](https://doi.org/10.1177/01492063251355251)).
+La contribución más reciente del campo es **Yim, Foulk, Klotz & Schilpzand (2025)** —*Journal of Management*, publicación anticipada en línea— que cuestiona empíricamente la asunción de beneficios uniformes del ritual: participantes en el mismo evento colectivo extraen efectos cualitativamente distintos según su experiencia subjetiva durante el ritual. Esto tensiona el argumento de Islam & Sferrazzo (2022) sobre la función cohesionadora colectiva, sin invalidarlo: la tensión entre el ritual como acto grupal y el ritual como experiencia individual heterogénea es el problema de investigación que KANA-GP recoge (DOI: [10.1177/01492063251355251](https://doi.org/10.1177/01492063251355251)).
 
 ### 3. Cultura latinoamericana del encuentro: especificidad regional
 
@@ -68,7 +68,7 @@ En el nivel de la burocracia de contacto ciudadano, **Lipsky (2010)** —*Street
 
 **Suchman (1995)** —*Academy of Management Review*, 20(3), 571–610— distingue tres tipos de legitimidad: pragmática, cognitiva y moral. Los rituales de encuentro operan en los tres planos: producen legitimidad pragmática al demostrar responsividad en el trato, cognitiva al naturalizar el orden simbólico de la organización, y moral al reafirmar públicamente los valores que la organización declara encarnar. La limitación de Suchman para este análisis es que su enfoque es predominantemente estratégico-cognitivo y no captura la dimensión corpórea y afectiva del ritual: es aquí donde Collins (2004) completa el marco (DOI: [10.2307/258788](https://doi.org/10.2307/258788)).
 
-**Kiwi, Khanagha & Alexiou (2025)** —*Public Performance & Management Review*, 48(5)—, revisión sistemática que identifica tres focos de legitimación en el cambio estratégico público: formulación, venta y ejecución. KANA-GP extiende este marco al plano ritual: cada fase del cambio activa tipos específicos de rituales de encuentro —ceremonias de inicio, rituales de reconocimiento de transición, actos de cierre y conmemoración— cuya calidad determina si el cambio es percibido como legítimo por los funcionarios y por la ciudadanía (DOI: [10.1080/15309576.2025.2476572](https://doi.org/10.1080/15309576.2025.2476572)).
+**Kiwi, Khanagha & Alexiou (2025)** —*Public Performance & Management Review*, 48(5), publicación anticipada en línea— identifican tres focos de legitimación en el cambio estratégico público: formulación, venta y ejecución. KANA-GP extiende este marco al plano ritual: cada fase del cambio activa tipos específicos de rituales de encuentro —ceremonias de inicio, rituales de reconocimiento de transición, actos de cierre y conmemoración— cuya calidad determina si el cambio es percibido como legítimo por los funcionarios y por la ciudadanía (DOI: [10.1080/15309576.2025.2476572](https://doi.org/10.1080/15309576.2025.2476572)).
 
 **Satia (2024)** —*Politeia: Journal of Public Administration and Political Science*, 2(3), 198–211— sistematiza evidencia sobre cómo liderazgo ético, cultura organizacional y rendición de cuentas interactúan para restaurar confianza pública en contextos institucionales complejos, ofreciendo un marco comparado que complementa el análisis de legitimidad ritual en el sector público latinoamericano (DOI: [10.61978/politeia.v2i3.963](https://doi.org/10.61978/politeia.v2i3.963)).
 
@@ -99,7 +99,7 @@ El contexto regional lo proveen **CEPAL (2025)** —*Panorama de la Gestión Pú
 ### Avances recientes (2024–2026)
 
 - Yim, J., Foulk, T. A., Klotz, A. C., & Schilpzand, P. (2025). Is everyone having a good time? The effects of complex organizational rituals on employee engagement and behavior. *Journal of Management*. Advance online publication. https://doi.org/10.1177/01492063251355251
-- Kiwi, D., Khanagha, S., & Alexiou, A. (2025). Understanding the role of legitimacy during strategic change in public organizations: A review and research agenda. *Public Performance & Management Review*, *48*(5). https://doi.org/10.1080/15309576.2025.2476572
+- Kiwi, D., Khanagha, S., & Alexiou, A. (2025). Understanding the role of legitimacy during strategic change in public organizations: A review and research agenda. *Public Performance & Management Review*, *48*(5). Advance online publication. https://doi.org/10.1080/15309576.2025.2476572
 - Satia, R. (2024). Restoring public trust through ethical leadership and accountability frameworks in governance. *Politeia: Journal of Public Administration and Political Science*, *2*(3), 198–211. https://doi.org/10.61978/politeia.v2i3.963
 - CEPAL. (2025). *Panorama de la gestión pública en América Latina y el Caribe, 2025: Innovar en el Estado para gestionar las transformaciones indispensables* (LC/PUB.2025/29). CEPAL. https://www.cepal.org/es/publicaciones/89768
 
@@ -108,6 +108,7 @@ El contexto regional lo proveen **CEPAL (2025)** —*Panorama de la Gestión Pú
 - Collins, R. (2004). *Interaction ritual chains*. Princeton University Press.
 - Goffman, E. (1967). *Interaction ritual: Essays on face-to-face behavior*. Anchor Books.
 - Turner, V. (1969). *The ritual process: Structure and anti-structure*. Aldine.
+- Turner, V. (1977). Variations on a theme of liminality. In S. F. Moore & B. G. Myerhoff (Eds.), *Secular ritual* (pp. 36–52). Van Gorcum.
 - Moore, S. F., & Myerhoff, B. G. (Eds.). (1977). *Secular ritual*. Van Gorcum.
 - Durkheim, É. (1912/1995). *The elementary forms of religious life* (K. E. Fields, Trans.). Free Press.
 
