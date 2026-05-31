@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this research package, please cite it as below."
+title: "KANA-GP Organizational Rituals: Conceptual Model for Public Legitimacy and Symbolic Governance"
+authors:
+  - family-names: "Pizarro Díaz"
+    given-names: "Roberto"
+    affiliation: "Universidad Central, Chile"
+    orcid: "https://orcid.org/0009-0004-1087-2678"
+version: "1.0.0"
+date-released: "2026-05-30"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/Shinken009/kana-gp-organizational-rituals"
+keywords:
+  - organizational rituals
+  - public management
+  - symbolic governance
+  - public legitimacy
+  - Latin America
+  - KANA-GP
+abstract: >
+  Research repository for a conceptual manuscript on organizational rituals,
+  public legitimacy and the KANA-GP model in Latin American public management.
