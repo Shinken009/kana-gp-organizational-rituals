@@ -5,7 +5,8 @@
 ![Estado](https://img.shields.io/badge/Estado-En%20evaluaci%C3%B3n%20editorial-yellow)
 ![Preprint](https://img.shields.io/badge/Preprint-Sin%20revisi%C3%B3n%20de%20pares-orange)
 ![Revista](https://img.shields.io/badge/Revista%20objetivo-Innovar%20UNAL-blue)
-![Acceso](https://img.shields.io/badge/Acceso-Abierto%20tras%20aceptaci%C3%B3n-green)
+![Licencia](https://img.shields.io/badge/Licencia-CC--BY%204.0-lightgreen)
+![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol%20%2F%20English-informational)
 
 ---
 
@@ -19,8 +20,20 @@
 | **Proceso de revisión** | Evaluación doble ciega por pares |
 | **Estado** | En revisión (enviado: mayo 2026) |
 | **Tipo de artículo** | Artículo de reflexión (clasificación MinCiencias/Colciencias) |
+| **Idioma del manuscrito** | Español |
 | **Financiamiento** | Investigación autofinanciada, sin financiamiento externo |
-| **Conflicto de intereses** | Los autores declaran no tener conflicto de intereses |
+| **Conflicto de intereses** | El autor declara no tener conflicto de intereses |
+| **Licencia** | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+
+---
+
+## Autor
+
+**Roberto Pizarro Díaz**
+
+Universidad Central de Chile · Universidad de Antofagasta (UCN)
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--1087--2678-brightgreen?logo=orcid)](https://orcid.org/0009-0004-1087-2678)
 
 > ⚠️ **Aviso de preprint:** Este repositorio contiene materiales complementarios a un manuscrito que **no ha sido revisado por pares**. Los resultados y conclusiones son preliminares. El manuscrito completo no está disponible mientras se encuentra bajo evaluación editorial doble ciega. Se publicará en acceso abierto una vez aceptado.
 
@@ -36,25 +49,29 @@
 
 ---
 
-## Abstract
+## Abstract (Español)
 
 KANA-GP propone que los **rituales organizacionales de encuentro** —reuniones, ceremonias, actos de reconocimiento y cualquier práctica colectiva que congregue a personas en copresencia laboral— operan como mecanismos de producción y erosión de legitimidad pública en organizaciones del Estado latinoamericano.
 
-En el sector público, la legitimidad no descansa exclusivamente en la eficacia de los procedimientos ni en el cumplimiento de metas. Descansa también, y de forma crítica, en la calidad del vínculo entre quienes trabajan en la organización y entre la organización y los ciudadanos. El puente entre ritual y legitimidad opera en tres planos:
+En el sector público, la legitimidad no descansa exclusivamente en la eficacia de los procedimientos ni en el cumplimiento de metas. Descansa también, y de forma crítica, en la calidad del vínculo entre quienes trabajan en la organización y entre la organización y los ciudadanos. El puente entre ritual y legitimidad opera en tres planos: (1) el ritual genera energía emocional compartida que sostiene el compromiso con la organización (Collins, 2004); (2) esa energía se cristaliza en compromiso de rol —definido como la inversión sostenida de energía física, cognitiva y emocional en el desempeño de las demandas del cargo (Kahn, 1990)—, que opera como variable mediadora entre el ritual interno y el comportamiento de contacto ciudadano; (3) ese comportamiento, percibido por los ciudadanos como trato digno, reconocimiento y eficacia, constituye acumulativamente legitimidad pragmática, cognitiva y moral (Suchman, 1995; Lipsky, 2010).
 
-1. El ritual genera **energía emocional compartida** que sostiene el compromiso con la organización (Collins, 2004).
-2. Esa energía se cristaliza en **compromiso de rol** —definido como la inversión sostenida de energía física, cognitiva y emocional en el desempeño de las demandas del cargo (Kahn, 1990)—, que opera como variable mediadora entre el ritual interno y el comportamiento de contacto ciudadano.
-3. Ese comportamiento, percibido por los ciudadanos como trato digno, reconocimiento y eficacia, constituye acumulativamente **legitimidad pragmática, cognitiva y moral** (Suchman, 1995; Lipsky, 2010).
-
-El mecanismo requiere densidad ritual sostenida para que sus efectos escalen desde el nivel del equipo hasta la legitimidad organizacional percibida por la ciudadanía. En América Latina, donde la confianza institucional se construye principalmente a través del trato directo y el vínculo interpersonal, este mecanismo tiene un peso superior al documentado en contextos del Norte Global.
-
-La tensión teórica central que el modelo busca resolver: Islam & Sferrazzo (2022) demuestran que los rituales operan como actos colectivos con función cohesionadora; Yim et al. (2025) demuestran que sus efectos son diferenciales según la experiencia subjetiva de cada participante. KANA-GP toma esta tensión como punto de partida: es precisamente esa heterogeneidad la que determina si el ritual produce o erosiona legitimidad en organizaciones públicas con alta diversidad interna.
+El mecanismo requiere densidad ritual sostenida para que sus efectos escalen desde el nivel del equipo hasta la legitimidad organizacional percibida por la ciudadanía. En América Latina, donde la confianza institucional se construye principalmente a través del trato directo y el vínculo interpersonal, este mecanismo tiene un peso superior al documentado en contextos del Norte Global. La tensión teórica central: Islam & Sferrazzo (2022) demuestran la función cohesionadora colectiva del ritual; Yim et al. (2025) demuestran que sus efectos son diferenciales según la experiencia subjetiva de cada participante. KANA-GP toma esa heterogeneidad como punto de partida.
 
 **Naturaleza metodológica:** artículo de reflexión teórica con aplicación interpretativa al contexto latinoamericano, basado en análisis crítico de fuentes primarias y secundarias especializadas.
 
+## Abstract (English)
+
+KANA-GP proposes that **organizational encounter rituals** —meetings, ceremonies, recognition acts, and any collective practice that brings people together in co-present work situations— operate as mechanisms for producing and eroding public legitimacy in Latin American state organizations.
+
+In the public sector, legitimacy does not rest exclusively on the effectiveness of procedures or the achievement of targets. It also rests, critically, on the quality of the bond between those who work within the organization and between the organization and citizens. The bridge between ritual and legitimacy operates on three levels: (1) ritual generates shared emotional energy that sustains commitment to the organization (Collins, 2004); (2) that energy crystallizes into role engagement —defined as the sustained investment of physical, cognitive, and emotional energy in fulfilling role demands (Kahn, 1990)— which acts as a mediating variable between internal ritual and citizen-contact behavior; (3) that behavior, perceived by citizens as dignified treatment, recognition, and efficacy, cumulatively constitutes pragmatic, cognitive, and moral legitimacy (Suchman, 1995; Lipsky, 2010).
+
+The mechanism requires sustained ritual density for its effects to scale from the team level to organizational legitimacy as perceived by citizens. In Latin America, where institutional trust is built primarily through direct interaction and interpersonal bonds, this mechanism carries greater weight than documented in Global North contexts. The central theoretical tension: Islam & Sferrazzo (2022) demonstrate the collective cohesive function of ritual; Yim et al. (2025) demonstrate that its effects are differential according to the subjective experience of each participant. KANA-GP takes that heterogeneity as its starting point.
+
+**Methodological nature:** theoretical reflection article with interpretive application to the Latin American context, based on critical analysis of specialized primary and secondary sources.
+
 ---
 
-## Palabras clave
+## Palabras clave / Keywords
 
 | Idioma | Términos |
 |---|---|
@@ -64,6 +81,26 @@ La tensión teórica central que el modelo busca resolver: Islam & Sferrazzo (20
 | **Français** | rituels organisationnels · rituels de rencontre · légitimité institutionnelle · chaînes de rituels d’interaction · culture organisationnelle latino-américaine · bureaucratie de proximité |
 
 **Códigos JEL:** `M14` Corporate Culture · `H83` Public Administration · `D73` Bureaucracy & Administrative Processes · `Z13` Social Norms, Social Capital & Culture
+
+---
+
+## Metadatos OSF / SocArXiv
+
+> Campos para completar al momento del depósito en [osf.io/preprints/socarxiv](https://osf.io/preprints/socarxiv)
+
+| Campo OSF | Valor |
+|---|---|
+| **Title** | Organizational rituals and public legitimacy in Latin America: a conceptual proposal of the KANA-GP model |
+| **Preprint server** | SocArXiv |
+| **Primary discipline** | Social and Behavioral Sciences → Public Administration |
+| **Secondary discipline** | Social and Behavioral Sciences → Organization Theory & Behavior |
+| **License** | CC-By Attribution 4.0 International |
+| **Subject tags** | organizational rituals; public legitimacy; Latin America; interaction ritual chains; street-level bureaucracy; public administration |
+| **Language** | Spanish |
+| **Article type** | Theoretical / Conceptual |
+| **Funding** | None |
+| **COI statement** | The author declares no conflict of interest |
+| **File to upload** | Manuscrito completo en PDF (una vez disponible) · figuras como archivos separados |
 
 ---
 
@@ -105,7 +142,7 @@ La dimensión del **personalismo** —la primacía de la relación personal sobr
 
 **Kiwi, Khanagha & Alexiou (2025)** identifican tres focos de legitimación en el cambio estratégico público: formulación, venta y ejecución (*Public Performance & Management Review*, 48(5)). KANA-GP dialoga con este marco al proponer que cada fase activa tipos específicos de rituales de encuentro —ceremonias de inicio, rituales de transición, actos de cierre y conmemoración— cuya calidad condiciona si el cambio es percibido como legítimo por los funcionarios y por la ciudadanía. DOI: [10.1080/15309576.2025.2476572](https://doi.org/10.1080/15309576.2025.2476572)
 
-**Satia (2024)** sistematiza evidencia sobre cómo liderazgo ético, cultura organizacional y rendición de cuentas interactúan para restaurar confianza pública en contextos institucionales complejos (*Politeia*, 2(3), 198–211), ofreciendo un marco comparado que complementa el análisis de legitimidad ritual en el sector público latinoamericano. DOI: [10.61978/politeia.v2i3.963](https://doi.org/10.61978/politeia.v2i3.963)
+**Satia (2024)** sistematiza evidencia sobre cómo liderazgo ético, cultura organizacional y rendición de cuentas interactúan para restaurar confianza pública en contextos institucionales complejos (*Politeia*, 2(3), 198–211). DOI: [10.61978/politeia.v2i3.963](https://doi.org/10.61978/politeia.v2i3.963)
 
 El contexto regional lo proveen **CEPAL (2025)** y **OCDE (2024)**, que ofrecen respectivamente el diagnóstico institucional de la región y los indicadores comparados de confianza ciudadana que dimensionan el problema que KANA-GP aborda.
 
@@ -167,4 +204,12 @@ El contexto regional lo proveen **CEPAL (2025)** y **OCDE (2024)**, que ofrecen 
 
 ---
 
-*Preprint no revisado por pares. El manuscrito completo estará disponible en acceso abierto tras aceptación editorial. Para citar este repositorio, usar el DOI del artículo publicado cuando esté disponible.*
+## Licencia
+
+Este repositorio y sus materiales complementarios se distribuyen bajo licencia [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). El manuscrito completo, una vez publicado, estará sujeto a la licencia de la revista receptora.
+
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
+*Preprint no revisado por pares · Mayo 2026 · Para citar, usar el DOI del artículo publicado cuando esté disponible · Autor: Roberto Pizarro Díaz · [ORCID 0009-0004-1087-2678](https://orcid.org/0009-0004-1087-2678)*
