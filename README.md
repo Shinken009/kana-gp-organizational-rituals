@@ -6,7 +6,7 @@ Artículo en evaluación:
 *"Rituales organizacionales y legitimidad pública en América Latina: adaptación conceptual del modelo KANA-GP"*
 
 Revista objetivo: **Innovar, Revista de Ciencias Administrativas y Sociales**  
-Universidad Nacional de Colombia &middot; Evaluación doble ciega &middot; En revisión
+Universidad Nacional de Colombia &middot; Evaluación doble ciega &middot; En revisión (enviado: mayo 2026)
 
 ---
 
@@ -40,19 +40,19 @@ La tensión teórica que KANA-GP busca resolver es la siguiente: Islam & Sferraz
 
 La base teórica del campo comienza en **Émile Durkheim** (*Les formes élémentaires de la vie religieuse*, 1912), quien identificó en los rituales colectivos el mecanismo primario de producción de solidaridad social: la copresencia física, el foco compartido y la emoción sincronizada producen los símbolos que sostienen la identidad del grupo. Esta formulación es el antecedente directo de la teoría de rituales en contextos institucionales.
 
-**Victor Turner** extiende y complejiza la herencia durkheimiana con los conceptos de *liminalidad* y *communitas* (*The Ritual Process*, 1969). El ritual de transición no reproduce simplemente el orden existente: abre un período liminal en el que las jerarquías ordinarias se suspenden y el grupo puede renegociar su identidad colectiva. En Moore & Myerhoff (1977) *Secular Ritual*, Turner aplica explícitamente estos conceptos a rituales institucionales no religiosos, incluyendo ceremonias civiles y actos organizacionales. Esta es la referencia pertinente para el análisis de rituales en el Estado latinoamericano en procesos de reforma institucional.
+**Victor Turner** extiende y complejiza la herencia durkheimiana con los conceptos de *liminalidad* y *communitas* (*The Ritual Process*, 1969). El ritual de transición no reproduce simplemente el orden existente: abre un período liminal en el que las jerarquías ordinarias se suspenden y el grupo puede renegociar su identidad colectiva. El capítulo de Turner en Moore & Myerhoff (1977, eds.), *Secular Ritual*, aplica estos conceptos a rituales institucionales no religiosos —ceremonias civiles y actos organizacionales—, lo que hace de ese volumen la referencia pertinente para el análisis de rituales en el Estado latinoamericano en procesos de reforma institucional.
 
 **Erving Goffman** (*Interaction Ritual*, 1967) aportó la dimensión microinteraccional: los rituales no ocurren solo en ceremonias extraordinarias sino en cada encuentro cara-a-cara cotidiano. Saludos, deferencias, turnos de habla y presentaciones del yo son rituales de interacción que sostienen el orden simbólico de la organización. El aporte específico de Goffman a KANA-GP es que permite analizar el ritual en la escala de lo ordinario: la ventanilla de atención ciudadana, la reunión de equipo y el acto de reconocimiento público son rituales de encuentro en el sentido goffmaniano.
 
 **Randall Collins** (*Interaction Ritual Chains*, 2004) integra la herencia de Durkheim y Goffman en un modelo procesual: los rituales de encuentro producen, como resultado medible, **energía emocional** —un estado de confianza, entusiasmo y disposición a la acción colectiva— y **símbolos de membresía grupal** que los participantes portan hacia próximas interacciones. La diferencia con Goffman es que Collins no solo describe cómo ocurren los rituales sino por qué algunos generan energía y otros la drenan: la intensidad del foco compartido y la sincronía emocional determinan el resultado. Esta variabilidad es el mecanismo que KANA-GP traslada al análisis de los rituales de encuentro en organizaciones públicas.
 
-### 2. Rituales en organizaciones: del canon a la frontera sota
+### 2. Rituales en organizaciones: del canon a la frontera de investigación
 
 **Islam & Zyphur (2009)** sistematizaron el campo en *Group & Organization Management*, 34(1), 114–139, articulando la herencia durkheimiana con la teoría institucional. Su taxonomía —rituales de paso, de degradación, de realce, de renovación y de reducción de conflicto— sigue siendo la clasificación de referencia. Relevante para KANA-GP es su énfasis en que los rituales operan primariamente en el nivel del **grupo de trabajo** —equipo, departamento, unidad— antes de escalar al nivel organizacional: es en ese nivel meso donde el ritual de encuentro produce cohesión interna e identidad colectiva con mayor inmediatez (DOI: [10.1177/1059601108329717](https://doi.org/10.1177/1059601108329717)).
 
 **Islam & Sferrazzo (2022)** —*Journal of Management Studies*, 59(2), 284–318— avanzan en la comprensión de los rituales como espacios de tensión: la nueva ideología gerencial intenta apropiarse de la forma ritual para infundir comunidad e igualdad, pero esa apropiación genera resistencias que los propios rituales expresan y contienen. En organizaciones públicas latinoamericanas donde las reformas gerencialistas han convivido con culturas burocráticas de largo arraigo, esta doble función del ritual —instrumento de control y espacio de resistencia— es empíricamente reconocible (DOI: [10.1111/joms.12708](https://doi.org/10.1111/joms.12708)).
 
-La contribución sota del campo es **Yim, Foulk, Klotz & Schilpzand (2025)** —*Journal of Management*, OnlineFirst— que cuestiona empíricamente la asunción de beneficios uniformes del ritual: participantes en el mismo evento colectivo extraen efectos cualitativamente distintos según su experiencia subjetiva durante el ritual. Esto tensiona el argumento de Islam & Sferrazzo (2022) sobre la función cohesionadora colectiva, sin invalidarlo: la tensión entre el ritual como acto grupal y el ritual como experiencia individual heterogénea es el problema de investigación que KANA-GP recoge (DOI: [10.1177/01492063251355251](https://doi.org/10.1177/01492063251355251)).
+La contribución más reciente del campo es **Yim, Foulk, Klotz & Schilpzand (2025)** —*Journal of Management*, OnlineFirst— que cuestiona empíricamente la asunción de beneficios uniformes del ritual: participantes en el mismo evento colectivo extraen efectos cualitativamente distintos según su experiencia subjetiva durante el ritual. Esto tensiona el argumento de Islam & Sferrazzo (2022) sobre la función cohesionadora colectiva, sin invalidarlo: la tensión entre el ritual como acto grupal y el ritual como experiencia individual heterogénea es el problema de investigación que KANA-GP recoge (DOI: [10.1177/01492063251355251](https://doi.org/10.1177/01492063251355251)).
 
 ### 3. Cultura latinoamericana del encuentro: especificidad regional
 
@@ -64,21 +64,21 @@ La dimensión del **personalismo** —la primacía de la relación personal sobr
 
 En el nivel de la burocracia de contacto ciudadano, **Lipsky (2010)** —*Street-Level Bureaucracy* (ed. ampliada), Russell Sage— documenta que los funcionarios de primera línea ejercen discrecionalidad en cada interacción. En el contexto cultural latinoamericano, esa discrecionalidad tiene una dimensión ritual específica: el saludo, el reconocimiento y el trato personalizado son actos de encuentro que producen o erosionan confianza institucional de manera acumulativa. Esta es la escala micro donde el mecanismo de KANA-GP se materializa de forma más directa.
 
-### 4. Legitimidad institucional: mecanismo y actualización sota
+### 4. Legitimidad institucional: mecanismo y avances recientes
 
 **Suchman (1995)** —*Academy of Management Review*, 20(3), 571–610— distingue tres tipos de legitimidad: pragmática, cognitiva y moral. Los rituales de encuentro operan en los tres planos: producen legitimidad pragmática al demostrar responsividad en el trato, cognitiva al naturalizar el orden simbólico de la organización, y moral al reafirmar públicamente los valores que la organización declara encarnar. La limitación de Suchman para este análisis es que su enfoque es predominantemente estratégico-cognitivo y no captura la dimensión corpórea y afectiva del ritual: es aquí donde Collins (2004) completa el marco (DOI: [10.2307/258788](https://doi.org/10.2307/258788)).
 
-La actualización sota en este eje es **Kiwi, Khanagha & Alexiou (2025)** —*Public Performance & Management Review*, 48(5)—, revisión sistemática que identifica tres focos de legitimación en el cambio estratégico público: formulación, venta y ejecución. KANA-GP extiende este marco al plano ritual: cada fase del cambio activa tipos específicos de rituales de encuentro —ceremonias de inicio, rituales de reconocimiento de transición, actos de cierre y conmemoración— cuya calidad determina si el cambio es percibido como legítimo por los funcionarios y por la ciudadanía (DOI: [10.1080/15309576.2025.2476572](https://doi.org/10.1080/15309576.2025.2476572)).
+**Kiwi, Khanagha & Alexiou (2025)** —*Public Performance & Management Review*, 48(5)—, revisión sistemática que identifica tres focos de legitimación en el cambio estratégico público: formulación, venta y ejecución. KANA-GP extiende este marco al plano ritual: cada fase del cambio activa tipos específicos de rituales de encuentro —ceremonias de inicio, rituales de reconocimiento de transición, actos de cierre y conmemoración— cuya calidad determina si el cambio es percibido como legítimo por los funcionarios y por la ciudadanía (DOI: [10.1080/15309576.2025.2476572](https://doi.org/10.1080/15309576.2025.2476572)).
 
-El contexto regional lo proveen **CEPAL (2026)** —*Panorama de la Gestión Pública en ALC 2025*, LC/PUB.2025/29— y **OCDE (2024)** —*Panorama de las Administraciones Públicas: ALC 2024*—, que ofrecen respectivamente el diagnóstico institucional de la región y los indicadores comparados de confianza ciudadana que dimensionan el problema que KANA-GP aborda.
+**Satia (2024)** —*Politeia: Journal of Public Administration and Political Science*, 2(3), 198–211— sistematiza evidencia sobre cómo liderazgo ético, cultura organizacional y rendición de cuentas interactúan para restaurar confianza pública en contextos institucionales complejos, ofreciendo un marco comparado que complementa el análisis de legitimidad ritual en el sector público latinoamericano (DOI: [10.61978/politeia.v2i3.963](https://doi.org/10.61978/politeia.v2i3.963)).
+
+El contexto regional lo proveen **CEPAL (2025)** —*Panorama de la Gestión Pública en ALC 2025*, LC/PUB.2025/29— y **OCDE (2024)** —*Panorama de las Administraciones Públicas: ALC 2024*—, que ofrecen respectivamente el diagnóstico institucional de la región y los indicadores comparados de confianza ciudadana que dimensionan el problema que KANA-GP aborda.
 
 ### 5. Epistemología situada: condición de posibilidad del modelo
 
 **Ibarra-Colado (2006)** —*Organization*, 13(4), 463–488— argumentó que los estudios organizacionales en América Latina reproducen una colonialidad epistémica que invisibiliza las formas locales de saber y gestionar. KANA-GP responde a este diagnóstico no como ejercicio declarativo sino como exigencia teórica: si la cultura del encuentro cara-a-cara es constitutiva de la legitimidad en organizaciones públicas latinoamericanas, entonces ningún marco que ignore esa dimensión puede dar cuenta adecuadamente del fenómeno (DOI: [10.1177/1350508406065851](https://doi.org/10.1177/1350508406065851)).
 
 **Alcadipani, Khan, Gantman & Nkomo (2012)** —*Organization*, 19(2), 131–143— precisan que el problema no es solo de aplicación adaptada sino de condiciones de producción del conocimiento: los marcos teóricos que emergen desde el Sur Global tienen una pertinencia diferente —no solo complementaria— a los producidos en el Norte. KANA-GP asume esta posición como criterio metodológico (DOI: [10.1177/1350508411431910](https://doi.org/10.1177/1350508411431910)).
-
-Como actualización del diagnóstico regional en gestión pública, **Satia (2024)** —*Politeia: Journal of Public Administration and Political Science*, 2(3), 198–211— sistematiza evidencia reciente sobre cómo liderazgo ético, cultura organizacional y rendición de cuentas interactúan para restaurar confianza pública en contextos institucionales complejos, ofreciendo un marco comparado aplicable al análisis latinoamericano (DOI: [10.61978/politeia.v2i3.963](https://doi.org/10.61978/politeia.v2i3.963)).
 
 ---
 
@@ -96,11 +96,12 @@ Como actualización del diagnóstico regional en gestión pública, **Satia (202
 
 ## Referencias completas (APA 7)
 
-### Sota 2025–2026
+### Avances recientes (2024–2026)
 
 - Yim, J., Foulk, T. A., Klotz, A. C., & Schilpzand, P. (2025). Is everyone having a good time? The effects of complex organizational rituals on employee engagement and behavior. *Journal of Management*. Advance online publication. https://doi.org/10.1177/01492063251355251
-- Kiwi, D., Khanagha, S., & Alexiou, A. (2025). Understanding the role of legitimacy during strategic change in public organizations: A review and research agenda. *Public Performance & Management Review*, *48*(5), 1–39. https://doi.org/10.1080/15309576.2025.2476572
-- CEPAL. (2026). *Panorama de la gestión pública en América Latina y el Caribe, 2025: Innovar en el Estado para gestionar las transformaciones indispensables* (LC/PUB.2025/29). CEPAL. https://www.cepal.org/es/publicaciones/89768
+- Kiwi, D., Khanagha, S., & Alexiou, A. (2025). Understanding the role of legitimacy during strategic change in public organizations: A review and research agenda. *Public Performance & Management Review*, *48*(5). https://doi.org/10.1080/15309576.2025.2476572
+- Satia, R. (2024). Restoring public trust through ethical leadership and accountability frameworks in governance. *Politeia: Journal of Public Administration and Political Science*, *2*(3), 198–211. https://doi.org/10.61978/politeia.v2i3.963
+- CEPAL. (2025). *Panorama de la gestión pública en América Latina y el Caribe, 2025: Innovar en el Estado para gestionar las transformaciones indispensables* (LC/PUB.2025/29). CEPAL. https://www.cepal.org/es/publicaciones/89768
 
 ### Rituales de encuentro e interacción
 
@@ -131,7 +132,6 @@ Como actualización del diagnóstico regional en gestión pública, **Satia (202
 - Triandis, H. C. (1995). *Individualism and collectivism*. Westview Press.
 - Dávila, A., & Elvira, M. M. (2012). Humanistic leadership: Lessons from Latin America. *Journal of World Business*, *47*(4), 548–554. https://doi.org/10.1016/j.jwb.2012.01.006
 - Lipsky, M. (2010). *Street-level bureaucracy: Dilemmas of the individual in public service* (Expanded ed.). Russell Sage Foundation.
-- Satia, R. (2024). Restoring public trust through ethical leadership and accountability frameworks in governance. *Politeia: Journal of Public Administration and Political Science*, *2*(3), 198–211. https://doi.org/10.61978/politeia.v2i3.963
 
 ### Epistemología situada latinoamericana
 
